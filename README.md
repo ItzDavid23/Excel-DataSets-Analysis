@@ -14,7 +14,7 @@ to extract insights based on KPI's, patterns, and trends.
 - Apply data cleaning, transformation, and exploratory analysis techniques.
 - Showcase my skills as a Junio Data Analyst through a structured portfolio
 
-## Business cases Covered
+## 📌Business cases Covered
 - Customer churn analysis
 - Personal Budget Tracking
 - Inventory Managment
