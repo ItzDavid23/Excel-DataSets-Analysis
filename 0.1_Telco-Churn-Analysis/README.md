@@ -1,5 +1,5 @@
 # Project Title
-### **Telco Churn Anaysis**
+### **Project name**
 
 ---
 
