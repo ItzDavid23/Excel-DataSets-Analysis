@@ -1,5 +1,5 @@
 # Project Title
-### **Project name**
+### **Telco Customer Churn**
 
 ---
 
