@@ -12,12 +12,13 @@ to extract insights based on KPI's, patterns, and trends.
 ## 🎯 Objectives
 - Build practical data analysis projects using excel.
 - Apply data cleaning, transformation, and exploratory analysis techniques.
-- 📌 Analyze real-life business cases such as:
-  - Customer churm
-  - Personal Budgeting
-  - Inventory Managment
-  - Sales and performance analysis
 - Showcase my skills as a Junio Data Analyst through a structured portfolio
+
+## Business cases Covered
+- Customer churn analysis
+- Personal Budget Tracking
+- Inventory Managment
+- Sales and performance analysis
 
 ---
 
@@ -52,3 +53,17 @@ Excel-DataSets-Analysis/
   - analysis/
   - visualization/
   - README.md
+
+---
+
+## 📁Projects Overview
+Note: Each Project includes its own documentation, datasets, analysis files and visualizations.
+
+### 📌Projects
+| Project | Description | Status | 🟢Done 🔵In-progress 🟠Planned
+|-------|------------|--------|
+| 📉 Customer Churn Analysis | Identify churn activity and retention KPIs | 🟢Done |
+| 💰 Personal Budget Analysis | Income and expense tracking with KPIs | 🟠Planned |
+| 📦 Inventory Management | Stock control and reorder analysis | 🟠Planned |
+| 🙋🏻‍♂️ Own Selection | Use of power query, advanced and dinamic visualizations | 🟠Planned |
+| 👔 HR Analytics | Human resources movements analysis | 🟠Planned |
