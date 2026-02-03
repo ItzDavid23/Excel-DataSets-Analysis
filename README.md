@@ -60,7 +60,8 @@ Excel-DataSets-Analysis/
 Note: Each Project includes its own documentation, datasets, analysis files and visualizations.
 
 ### 📌Projects
-| Project | Description | Status | 🟢Done 🔵In-progress 🟠Planned
+🟢Done 🔵In-progress 🟠Planned
+| Project | Description | Status |
 |-------|------------|--------|
 | 📉 Customer Churn Analysis | Identify churn activity and retention KPIs | 🟢Done |
 | 💰 Personal Budget Analysis | Income and expense tracking with KPIs | 🟠Planned |
