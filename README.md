@@ -3,7 +3,7 @@
 ---
 
 ## 📝 Description
-This repository contains multiple data analysis projects developed using *Excel*.
+This repository contains multiple data analysis projects developed using **Excel**.
 The projects focus on collecting, cleaning, transforming, and analyzing datasets.
 to extract insights based on KPI's, patterns, and trends.
 
@@ -12,7 +12,7 @@ to extract insights based on KPI's, patterns, and trends.
 ## 🎯 Objectives
 - Build practical data analysis projects using excel.
 - Apply data cleaning, transformation, and exploratory analysis techniques.
-- Showcase my skills as a Junio Data Analyst through a structured portfolio
+- Showcase my skills as a Junio Data Analyst through a structured portfolio.
 
 ## 📌Business cases Covered
 - Customer churn analysis
