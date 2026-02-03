@@ -21,34 +21,33 @@ to extract insights based on KPI's, patterns, and trends.
 
 ## 🗂Repository Structure
 Excel-DataSets-Analysis/
-│
-├── 0.1_Telco-Churn-Analysis/
-│   ├── data/
-│   ├── analysis/
-│   ├── visualization/
-│   └── README.md
-│
-├── 0.2_Personal-Budget/
-│   ├── data/
-│   ├── analysis/
-│   ├── visualization/
-│   └── README.md
-│
-├── 0.3_Inventory-Management/
-│   ├── data/
-│   ├── analysis/
-│   ├── visualization/
-│   └── README.md
-│
-├── 0.4_Own-Project/
-│   ├── data/
-│   ├── analysis/
-│   ├── visualization/
-│   └── README.md
-│
-└── 0.5_HR-Analytics/
-    ├── data/
-    ├── analysis/
-    ├── visualization/
-    └── README.md
-
+|
+|-- 0.1_Telco-Churn-Analysis/
+|   |-- data/
+|   |-- analysis/
+|   |-- visualization/
+|   |-- README.md
+|
+|-- 0.2_Personal-Budget/
+|   |-- data/
+|   |-- analysis/
+|   |-- visualization/
+|   |-- README.md
+|
+|-- 0.3_Inventory-Management/
+|   |-- data/
+|   |-- analysis/
+|   |-- visualization/
+|   |-- README.md
+|
+|-- 0.4_Own-Project/
+|   |-- data/
+|   |-- analysis/
+|   |-- visualization/
+|   |-- README.md
+|
+|-- 0.5_HR-Analytics/
+|   |-- data/
+|   |-- analysis/
+|   |-- visualization/
+|   |-- README.md
