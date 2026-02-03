@@ -1,14 +1,25 @@
 # Project Title
-*(Telco Churn Anaysis)*
-
-
----
-
-## Description
+### **Telco Churn Anaysis**
 
 ---
 
-## KPIS
+## 📝Description
+
+---
+
+## 🎯Objectives
+
+---
+
+## 📂Dataset
+
+--
+
+## Data Cleaning & preparation
+
+--
+
+## KPIs & metrics
 
 ---
 
@@ -16,7 +27,17 @@
 
 ---
 
-## Insights
+## Dashboard Preview
+### Description of visuals created:
 
 ---
 
+## Key Insights
+
+---
+
+## Tools used
+
+---
+
+## Notes
