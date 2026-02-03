@@ -63,8 +63,8 @@ Note: Each Project includes its own documentation, datasets, analysis files and 
 🟢Done 🔵In-progress 🟠Planned
 | Project | Description | Status |
 |-------|------------|--------|
-| 📉 Customer Churn Analysis | Identify churn activity and retention KPIs | 🟢Done |
-| 💰 Personal Budget Analysis | Income and expense tracking with KPIs | 🟠Planned |
-| 📦 Inventory Management | Stock control and reorder analysis | 🟠Planned |
-| 🙋🏻‍♂️ Own Selection | Use of power query, advanced and dinamic visualizations | 🟠Planned |
-| 👔 HR Analytics | Human resources movements analysis | 🟠Planned |
+| 📉 Customer Churn Analysis | Identify churn activity and retention KPIs | 🟢 |
+| 💰 Personal Budget Analysis | Income and expense tracking with KPIs | 🟠 |
+| 📦 Inventory Management | Stock control and reorder analysis | 🟠 |
+| 🙋🏻‍♂️ Own Selection | Use of power query, advanced and dinamic visualizations | 🟠 |
+| 👔 HR Analytics | Human resources movements analysis | 🟠 |
