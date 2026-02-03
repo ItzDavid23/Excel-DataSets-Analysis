@@ -61,9 +61,7 @@ Note: Each Project includes its own documentation, datasets, analysis files and 
 
 ### 📌Projects
 | Project | Description | Status | 🟢Done 🔵In-progress 🟠Planned
--
 |-------|------------|--------|
--
 | 📉 Customer Churn Analysis | Identify churn activity and retention KPIs | 🟢Done |
 | 💰 Personal Budget Analysis | Income and expense tracking with KPIs | 🟠Planned |
 | 📦 Inventory Management | Stock control and reorder analysis | 🟠Planned |
