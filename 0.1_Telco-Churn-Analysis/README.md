@@ -27,8 +27,10 @@ Example: This project focuses on analysis customer churn data to identify patter
 ---
 
 ## 🧹Data Cleaning & preparation
-Main steps performed during data preparation:
-- 
+- Standardized column and rown names to a consistent convention name.
+- Converted Boolean-Type columns intro a describe Yes/No values.
+- Reounder all currency columns to 2 decimales places.
+- Transforme the Churn column from Yes/No values into a describe Active/Churn categories.
 
 ---
 
