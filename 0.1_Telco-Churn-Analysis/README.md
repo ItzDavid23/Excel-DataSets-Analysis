@@ -36,7 +36,13 @@ Example: This project focuses on analysis customer churn data to identify patter
 
 ## 🔍Exploratory Data Analysis (EDA)
 Exploratory analysis performed to understand patterns and relationships in the data:
-- 
+- The data types encountered were text, numerical and booleans.
+- More than 7000 records.
+- Customer is the entity described.
+- A 27% of churn and 73% of retention were detected.
+- Month-to-Month is the most contracted time with a 55% of the total.
+- Fiber optic was the most internet service contracted with a 43% of the total.
+- Both Male & female users represent the 50.
 
 ---
 
